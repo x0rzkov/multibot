@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"plugin"
 
-	"gopkg.in/telegram-bot-api.v4"
+	"github.com/go-telegram-bot-api/telegram-bot-api"
 
 	log "github.com/sirupsen/logrus"
 )
